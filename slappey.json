@@ -1,0 +1,6 @@
+{
+  "name": "versabot",
+  "language": "typescript",
+  "manager": "yarn",
+  "prefix": "$"
+}
